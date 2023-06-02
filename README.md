@@ -1,1 +1,2 @@
 # RT2_assi03
+For the third assignment of Research Track-2, a statistical analysis was conducted based on the comparisons of the Research Track-1 first assignment. A simulation of silver token grabbing and releasing was performed 40 times, and the resulting data was recorded. These results were then compared with the results obtained by Wadoud Guelmami. A comprehensive statistical analysis was carried out using these comparisons. All the data and detailed statistical calculations can be found in the "Third_assignment_report.pdf" file.
